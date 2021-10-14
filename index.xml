@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on Meixi Chen</title>
+    <link>/</link>
+    <description>Recent content in About Me on Meixi Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2015 13:09:13 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/research/</guid>
+      <description>I am currently working under the supervision of Dr. Martin Lysy and Dr. Reza Ramezan. My research interests include:
+  Computational Bayesian methods
+  Analysis of neural spike trains
+  Spatial models
+  Publications Meixi Chen, Reza Ramezan and Martin Lysy (2021). Fast Approximate Inference for Spatial Extreme Value Models. Submitted
+Mhd. Wasem Alsabbagh, Feng Chang, Martin Cooke, Susan J. Elliott, and Meixi Chen (2021). National trends in population rates of opioid-related mortality, hospitalization and emergency department visits in Canada between 2000 and 2017.</description>
+    </item>
+    
+    <item>
+      <title>Roles</title>
+      <link>/roles/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/roles/</guid>
+      <description>Statistical Consultant I have been a statistical consultant at the Statistical Consulting and Collaborative Research Unit since January 2021. The consulting center provides statistical advice to graduate students and faculty members at UW and external entities from other universities or private companies. Appointments can be made here.
+Teaching Assistant Below is a list of courses I TA&amp;rsquo;d at UW:
+ AFM113: Analytic Methods 2 for Business (Winter 2021) ME202: Statistics for Engineers (Winter 2020) STAT220: Probability (Non-Specialist Level) (Fall 2019) STAT230: Probability (Fall 2019, Winter 2020) STAT231: Statistics (Spring 2020) STAT330: Mathematical Statistics (Fall 2020) STAT341: Computational Statistics and Data Analysis (Fall 2020) STAT430/830: Experimental Design (Spring 2020)  Past Roles Research Assistant in Social Statistics (May 2018 - Apr 2019)</description>
+    </item>
+    
+  </channel>
+</rss>
